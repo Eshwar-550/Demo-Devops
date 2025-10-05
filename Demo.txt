@@ -5,3 +5,5 @@ This is intital commit
 This is second change/commit
 
 Using feature1 branch
+
+Merging with main branch
